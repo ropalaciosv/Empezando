@@ -1,2 +1,0 @@
-# Empezando
-My first repository 
